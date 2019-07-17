@@ -1,0 +1,263 @@
+@media screen and (max-width: 768px) {
+	header {
+    height: 963px;
+}
+	nav {
+    background: none;
+}
+.menu {
+	padding-top: 20px;
+  width: auto;
+  text-align: center;
+}
+.menu ul {
+display: block;
+margin-top: 20px;
+
+}
+.logotip img{
+	width: 120px;
+	height: 120px;
+}
+.menu a {
+    font-size: 15px;
+}
+.active {
+    background: none;
+}
+.back {
+     top: 0; 
+}
+.text {
+     top: 0px; 
+}
+h1 {
+    padding-right: 20px;
+    font-size: 35px;
+}
+.p-cont {
+  width: 210px;
+}
+.text p {
+    font-size: 14px;
+}
+.button {
+	margin: 0 auto;
+}
+.tel {
+	margin: 0 auto;
+}
+.btn-cons {
+    font-size: 14px;
+    width: 244px;
+    height: 49px;
+    padding-top: 10px;
+    padding-left: 17px;
+}
+.headline h2 {
+    font-size: 30px;
+}
+.headline p {
+    font-size: 15px;
+}
+.work-button {
+	padding-top: 0;
+	position: absolute;
+	bottom: -5%;
+	left: 33%;
+}
+.work-button p {
+	display: none;
+}
+.btn-work {
+  font-size: 18px;
+  width: 180px;
+  height: 30px;
+  padding-top: 5px;
+  margin-left: 0px;
+  padding-left: 36px;
+}
+.drop {
+  padding-left: 10px;
+  padding-top: 108px;
+	margin: 0 auto;
+}
+#nav li a {
+  width: 230px;
+}
+.bold {
+  font-size: 14px;
+  white-space: initial;
+}
+
+.work {
+  height: 550px;
+}
+.backgra {
+  height: 600px;
+}
+
+.our-advantage {
+    height: auto;
+}
+.advantage-container h2 {
+	font-size: 30px;
+	padding-top: 20px;
+}
+.advantage-cards {
+	margin-top: -30px;
+	flex-direction: column;
+}
+.advantage-card {
+	margin: 0 auto;
+	padding-top: 50px;
+}
+.advantage-card:nth-child(2) {
+display: none;
+}
+.first-text {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+}
+.first-img img{
+	width: 100px;
+}
+.first-img {
+	left: -7%;
+}
+.second-text {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+}
+.second-img img{
+	width: 100px;
+}
+.second-img {
+	left: 69.5%;
+}
+.second-text p {
+	padding-right: 60px;
+}
+.reviews_text {
+	height: 126px;
+}
+.reviews__cards {
+	left: 0%; 
+}
+.reviews {
+    height: auto;
+}
+.reviews__box_title {
+     padding-top: 10px; 
+}
+.reviews__card {
+	margin-bottom: 12px;
+}
+.reviews_text p {
+	margin: 0 auto;
+	width: 100%;
+}
+.form {
+    position: relative;
+    width: 75%;
+    height: 318px;
+    margin: 0 auto;
+    background: #fff;
+    border: 1px solid #594AAF;
+    box-shadow: 7px 7px rgb(89,74,175);
+    bottom: 78.7%;
+    left: 0%;
+    text-align: center;
+}
+.form_p {
+    text-align: right;
+    padding-right: 25px;
+    padding-top: 29px;
+    padding-bottom: 42px;
+    font-size: 20px;
+}
+button.send-button {
+    margin: 30px auto;
+    font-size: 18px;
+    width: 172px;
+    height: 46px;
+}
+.window {
+    bottom: 76.5%;
+    left: 13%;
+    width: 176px;
+    height: 113px;
+}
+.window p:first-child {
+    padding-top: 10px;
+}
+.window p {
+    font-size: 14px;
+}
+.box-contact h2 {
+    font-size: 30px;
+    padding-left: 20px;
+}
+.contact {
+    height: 574px;
+}
+.active__line {
+display: none;
+}
+footer {
+	height: auto;
+}
+.logo_p {
+    font-size: 20px;
+}
+.logo {
+	margin: 0 auto;
+}
+.footer__contact {
+	margin: 0 auto;
+}
+.footer__container {
+	flex-direction: column;
+	padding-bottom: 20px;
+}
+.modal_form {
+		width: 100%;
+    left: 0;
+}
+}
+
+
+@media screen and (max-width: 420px){
+.reviews_text {
+    height: 103px;
+    font-size: 10px;
+}
+.reviews_text p {
+    padding-right: 21px;
+}
+.second-text p {
+    padding-right: 75px;
+}
+.more {
+margin: 0 auto;
+}
+.box-contact h2 {
+    padding-left: 10px;
+}
+}
+
+@media screen and (width: 768px){
+.reviews__cards {
+    margin-left: 154px;
+}
+}
+@media (min-width: 769px) and (max-width: 825px) {
+.box-contact h2 {
+padding-left: 10px;
+}
+.transparent {
+	height: 25%;
+}
+}
